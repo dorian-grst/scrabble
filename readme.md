@@ -5,21 +5,12 @@
 Vous trouverez dans ce repo tous nos efforts fournis pour produire ce Scrabble.
 
 ---
-
-Liens Utiles
-
-| Version de base | Version avec Extensions |
-| ----------- | ----------- |
-| https://github.com/Atomoox/Scrabble  | https://github.com/Atomoox/Scrabble-Extensions |
-
----
 ### Sommaire 📁
 1. [Extensions et avancé du scrabble](#extensions-et-avancé-du-scrabble-)
 2. [Comment installer notre production ?](#comment-installer-notre-production-?-)
 3. [Comment compiler le projet ?](#comment-compiler-le-projet-?-)
 4. [Exécuter et jouer au jeu](#exécuter-et-jouer-au-jeu-)
 5. [Tester notre scrabble](#tester-notre-scrabble-)
-6. [Trouver les extensions](#trouver-les-extensions-)
 
 ---
 ## Extensions et avancé du scrabble 📁
@@ -65,15 +56,6 @@ Si certains fichier ne se sont pas compilés automatiquement lors du premier jav
 
 Lancer et jouer une partie sérieusement avec un ou plusieurs amis (si par chance vous en avez) est le meilleur moyen de tester notre Scrabble.
 Si vous rencontrez des bugs, ne nous enlevez pas de points, ouvrez seulement un rapport de bug sur le Github, nous ne les lirons probablement pas.
-
----
-## Trouver les extensions 📁
-
-| Détermination du joueur qui commence | Prise en compte d’un dictionnaire de référence |
-| ----------- | ----------- |
-| getStarter (Scrabble.java:40) | initDico (Plateau.java:37) |
-| this.getStarter(); (Scrabble.java:73) | estDico (Plateau.java:49) |
-| / | this.estDico(mot); (Plateau.java:126) |
 
 ---
 
