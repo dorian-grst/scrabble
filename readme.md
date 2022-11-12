@@ -2,7 +2,7 @@
 
 **SAE SCRABBLE** 🏷️
 
-Vous trouverez dans ce repo tous nos efforts fournis pour produire ce Scrabble.
+Vous trouverez dans ce repo tous nos efforts fournis pour produire cette SAE Scrabble [1ère année].
 
 ---
 ### Sommaire 📁
